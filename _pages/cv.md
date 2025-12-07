@@ -8,23 +8,24 @@ permalink: /cv/
 [Download my CV]({{ "/assets/CV.pdf" | relative_url }}) in PDF format.
 
 
-**Email:** [njj29@cornell.edu](mailto:njj29@cornell.edu) | | | **Phone:** +123 456 7890
+**Email:** [njj29@cornell.edu](mailto:njj29@cornell.edu) | | | **Phone:** (813)-765-1013
 
 ---
 
 #### Objective
-Aspiring engineering student with a strong foundation in.... Passionate about ... and eager to apply my knowledge in real-world applications.
+Division 1 Athlete and Mechanical Engineerind student looking to explore the engineering world and gain new skills
 
 ---
 
 #### Education
 - **Cornell University**  
   *Bachelor of Science in Mechanical and Aerospace Engineering*  
-  GPA: 4.0/4.0 | Graduation: Month, Year
+  GPA: 4.0/4.0 | Graduation: May, 2027
 
-- **[High School Name]**  
-  *High School Diploma*  
-  Graduation: [Month, Year]
+- **[T.R. Robinson High School]**  
+  Received diploma from International Baccalaureate Program 
+  GPA : 4.0/4.0
+  Graduation: [May, 2023]
 
 ---
 
@@ -35,36 +36,28 @@ Aspiring engineering student with a strong foundation in.... Passionate about ..
 
 ---
 
-#### Projects
-- **[Project Title]**:  
-  *[Short Description]*  
-  - Key Achievement 1  
-  - Key Achievement 2  
-
-- **[Project Title]**:  
-  *[Short Description]*  
-  - Key Achievement 1  
-  - Key Achievement 2  
+#### Relevant Courses 
+Intro Computing: Design and Development (Python), Sustainable Engineering of Air, Water, and Soil, Thermodynamics, Statics and Mechanics of Solids, Dynamics, Introduction to Mechanical Design (CAD), Fluid Mechanics
 
 ---
 
 #### Work Experience
-- **[Company Name] - Intern**  
-  [Month, Year] - [Month, Year]  
-  - Responsibility 1  
-  - Responsibility 2  
+- **[AgEng Lab] - Intern**  
+  [May 2025] - [August, 2025]  
+  -  •	Interned in the Agricultural Engineering Lab of Dr. Manoj Karkee at Cornell 
+  -  Prototyped and assembled automatic gas sensor chamber for small crops
+  - •	Trained AI model to identify and prune branches of apple trees
+  
+- **[Cornell Weightroom Employee]**
+  - Provided support for strength and conditioning staff 
+  - Maintained facilities and provided nutrition for fellow college athletes
 
 ---
 
-#### Achievements & Certifications
-- [Certification Name], [Issuing Organization], [Year]  
-- [Achievement Name], [Competition/Event], [Year]  
-
----
 
 #### Extracurricular Activities
-- Member of [Club/Organization Name]  
-- Volunteer for [Event/Organization Name]  
+- **[Cornell varsity Baseball Team]** 
+ - 20-30 hour commitment per week of training and team events 
 
 ---
 
