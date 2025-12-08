@@ -18,31 +18,33 @@ results.
 
 #### CAD Files
 
-![CAD Photo 1 ](/assets/images/cad1.png)
-![CAD Photo 2 ](/assets/images/cad2.png)
+![CAD Photo 1 ]({{ "/assets/images/cad1.png" | relative_url }})
+![CAD Photo 2 ]({{ "/assets/images/cad2.png" | relative_url }})
+
+
 
 These show the dimensions of our design and a rough layout of the geometry used. 
 
 #### Loads and Boundary Conditions
 
-![Loading Schematic](/assets/images/loads.jpeg)
+![Loading Schematic]({{ "/assets/images/loads.jpeg" | relative_url }})
 
 This shows how the pieces of the model were constrained and loaded in Ansys
 
 #### Normal Strain Contours
 
-![strain contour](/assets/images/straincontour.png)
+![strain contour]({{ "/assets/images/straincontour.png" | relative_url }})
 
 #### Contour Plot of Maximum Principal Stress
 
-![strain contour](/assets/images/straincontour.png)
+![stress contour]({{ "/assets/images/stresscontour.png" | relative_url }})
 
 #### Results of FEM
 
-Our FEM analysis yielded a 1.64 mv/v output at the gauge (seen in photo as Normal Strain Z-Axis in bottom left), a maximum normal stress of 77323, and a maximum deflection of 
+Our FEM analysis yielded a 1.64 mv/v output at the gauge (seen in photo as Normal Strain Z-Axis in bottom left), a maximum normal stress of 77323, and a maximum deflection of 0.656 inches
 
-![Strain Gauge](/assets/images/probestrain.png)
-![Max Normal](/assets/images/maxnormal.png)
+![Strain Gauge]({{ "/assets/images/probestrain.png" | relative_url }})
+![Max Normal]({{ "/assets/images/maxnormal.png" | relative_url }})
 
 #### Torque Wrench Sensitivity
 
