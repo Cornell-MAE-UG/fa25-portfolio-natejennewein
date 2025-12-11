@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Analysis of Functions
+title: Satellite Pointing Analysis
 description: Class Project in System Dynamics
 technologies: [State Space Modelling, Block Diagrams]
 image: /assets/images/satellite.jpeg
