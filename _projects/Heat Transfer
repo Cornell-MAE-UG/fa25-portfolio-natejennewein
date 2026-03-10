@@ -1,0 +1,9 @@
+---
+layout: project
+title: Heat Transfer Problem Set
+description: Class Project in Heat Transfer
+image: /assets/images/eatpic.png
+---
+For my heat transfer class, one of our first problem sets was on energy balance and conductive heat transfer. As a student new to this topic, having practice in a streamlined and simplified environment improved my understanding. The idea of heat rate, heat flux, and heat are difficult to conceptualize without context. The first problem does a great job of this with heat rate on an eletric water heater. Also helpful was the example of laser manufacturing, which expanded the scope beyond a 1D assumption. These understandings will be useful as the class moves into more complex examples. 
+---
+[Access my report]({{ "/assets/heat2.pdf" | relative_url }}) in PDF format.
